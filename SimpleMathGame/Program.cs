@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Diagnostics;
 using System.Diagnostics.Metrics;
-using System.Net.NetworkInformation;
-using System.Security.Cryptography;
 
 SimpleMathGame game = new();
 game.Run();
